@@ -1,0 +1,162 @@
+{
+  "rounds": [{
+      "round_name": "1/16",
+      "matches": [{
+          "item_1": {
+            "name": "player 0"
+          },
+          "item_2": {
+            "name": "player 1"
+          },
+          "status": 1
+        },
+        {
+          "item_1": {
+            "name": "player 2"
+          },
+          "item_2": {
+            "name": "player 3"
+          },
+          "status": 1
+        },
+        {
+          "item_1": {
+            "name": "player 4"
+          },
+          "item_2": {
+            "name": "player 5"
+          },
+          "status": 1
+        },
+        {
+          "item_1": {
+            "name": "player 6"
+          },
+          "item_2": {
+            "name": "player 7"
+          },
+          "status": 1
+        },
+        {
+          "item_1": {
+            "name": "player 8"
+          },
+          "item_2": {
+            "name": "player 9"
+          },
+          "status": 1
+        },
+        {
+          "item_1": {
+            "name": "player 10"
+          },
+          "item_2": {
+            "name": "player 11"
+          },
+          "status": 1
+        },
+        {
+          "item_1": {
+            "name": "player 12"
+          },
+          "item_2": {
+            "name": "player 13"
+          },
+          "status": 1
+        },
+        {
+          "item_1": {
+            "name": "player 14"
+          },
+          "item_2": {
+            "name": "player 15"
+          },
+          "status": 1
+        }
+      ]
+    },
+    {
+      "round_name": "1/8",
+      "matches": [{
+          "item_1": {
+            "name": "player 1"
+          },
+          "item_2": {
+            "name": "player 3"
+          },
+          "status": 1
+        },
+        {
+          "item_1": {
+            "name": "player 5"
+          },
+          "item_2": {
+            "name": "player 7"
+          },
+          "status": 1
+        },
+        {
+          "item_1": {
+            "name": "player 9"
+          },
+          "item_2": {
+            "name": "player 11"
+          },
+          "status": 1
+        },
+        {
+          "item_1": {
+            "name": "player 13"
+          },
+          "item_2": {
+            "name": "player 15"
+          },
+          "status": 1
+        }
+      ]
+    },
+    {
+      "round_name": "1/4",
+      "matches": [{
+          "item_1": {
+            "name": "player 3"
+          },
+          "item_2": {
+            "name": "player 7"
+          },
+          "status": 1
+        },
+        {
+          "item_1": {
+            "name": "player 11"
+          },
+          "item_2": {
+            "name": "player 15"
+          },
+          "status": 1
+        }
+      ]
+    },
+    {
+      
+      "round_name": "Final",
+      "matches": [{
+        "item_1": {
+          "name": "player 7"
+        },
+        "item_2": {
+          "name": "player 15"
+        },
+        "status": 1
+      }]
+    },
+    {
+      "round_name": "Winner",
+      "matches": [{
+        "item_1": {
+          "name": "player 15"
+        }
+      }]
+    }
+  ]
+}

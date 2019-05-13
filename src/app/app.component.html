@@ -1,0 +1,19 @@
+<div class="container">
+  <div class="bracket">
+      <div *ngFor="let round of tournament.rounds" class="bracket_round ">
+          <div class="bracket_title">{{round.round_name}}</div>
+          <ul class="bracket_list">
+                  <li *ngFor="let match of round.matches" class="bracket_item">
+                  <div class="bracket_match">
+                      <div class="bracket_block">
+                          <div class="bracket_team"> {{match.item_1.name}}</div>
+                          <span *ngIf="match.item_2">&nbsp;VS&nbsp;</span>
+                          <div *ngIf="match.item_2" class="bracket_team">{{match.item_2.name}}</div>
+                      </div>
+                  </div>
+                  </li>
+          </ul>
+      </div>
+  </div>
+</div>
+
